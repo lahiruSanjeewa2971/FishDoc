@@ -1,0 +1,4 @@
+tensorflow==2.8.0
+google-cloud-storage==1.16.1
+pillow
+protobuf==3.20.0

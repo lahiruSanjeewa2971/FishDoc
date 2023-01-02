@@ -1,0 +1,19 @@
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+.env
+.env.backup
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+Betta_Gender.h5
+fish_model.h5
+GoldFish_Gender.h5
+Guppy_Gender.h5
+plants_model.h5
+Betta_Gender.h5
+#pip install -r requirements.txt  # install
